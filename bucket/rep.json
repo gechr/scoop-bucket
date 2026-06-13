@@ -1,0 +1,22 @@
+{
+    "version": "0.5.5",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gechr/rep/releases/download/v0.5.5/rep_windows_amd64.zip",
+            "bin": [
+                "rep.exe"
+            ],
+            "hash": "3f33addcdfde99ef3b07f370903027dacc2cbec415ba568412483d4b3c944d51"
+        },
+        "arm64": {
+            "url": "https://github.com/gechr/rep/releases/download/v0.5.5/rep_windows_arm64.zip",
+            "bin": [
+                "rep.exe"
+            ],
+            "hash": "56a2bb8f7414bc18b34cc99be4d85aecf18d52f557af2ae3f835d9f8e7dae9b7"
+        }
+    },
+    "homepage": "https://github.com/gechr/rep",
+    "license": "Apache-2.0",
+    "description": "Fast find-and-replace tool"
+}
