@@ -3,3 +3,5 @@
 - [clone](https://github.com/gechr/clone) - Clone GitHub repositories in parallel
 - [echo-server](https://github.com/gechr/echo-server) - Echo HTTP requests as JSON
 - [prl](https://github.com/gechr/prl) - Interact with GitHub pull requests
+- [ren](https://github.com/gechr/ren) - Bulk file renamer
+- [rep](https://github.com/gechr/rep) - Fast find/replace tool
