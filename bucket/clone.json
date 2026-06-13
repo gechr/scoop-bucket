@@ -1,0 +1,22 @@
+{
+    "version": "0.3.11",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gechr/clone/releases/download/v0.3.11/clone_windows_amd64.zip",
+            "bin": [
+                "clone.exe"
+            ],
+            "hash": "94349eb1b6f34f9ec23538a0662b292135b88ba7ffbac02aa0c227a20d3cb6f6"
+        },
+        "arm64": {
+            "url": "https://github.com/gechr/clone/releases/download/v0.3.11/clone_windows_arm64.zip",
+            "bin": [
+                "clone.exe"
+            ],
+            "hash": "e4a01ee7810dba733a2100d1857f3078c67e4ab6b9764fdebebfdec3bee829d5"
+        }
+    },
+    "homepage": "https://github.com/gechr/clone",
+    "license": "MIT",
+    "description": "Clone GitHub repositories in parallel"
+}
