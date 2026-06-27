@@ -1,0 +1,22 @@
+{
+    "version": "0.0.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/gechr/clover/releases/download/v0.0.1/clover_windows_amd64.zip",
+            "bin": [
+                "clover.exe"
+            ],
+            "hash": "d7a11b9730aaa9e4ea106f74883fb1213e531be73a18b724da962079856deb5b"
+        },
+        "arm64": {
+            "url": "https://github.com/gechr/clover/releases/download/v0.0.1/clover_windows_arm64.zip",
+            "bin": [
+                "clover.exe"
+            ],
+            "hash": "02b2d0520e27028d043e27ae2f635f55fd9bd5fe602b29340ee683ab79d3841e"
+        }
+    },
+    "homepage": "https://github.com/gechr/clover",
+    "license": "MIT",
+    "description": "Automatically manage version strings across arbitrary files"
+}
