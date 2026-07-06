@@ -1,19 +1,19 @@
 {
-    "version": "0.3.23",
+    "version": "0.3.24",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gechr/clone/releases/download/v0.3.23/clone_windows_amd64.zip",
+            "url": "https://github.com/gechr/clone/releases/download/v0.3.24/clone_windows_amd64.zip",
             "bin": [
                 "clone.exe"
             ],
-            "hash": "7359d08bfc1030045fd557d0ae399ad6cdd68d393769ebd4226a0037946b93f0"
+            "hash": "4c1a146519e0758514d004173cc30ecb7f432927d7b94212ff4590beb35c24e2"
         },
         "arm64": {
-            "url": "https://github.com/gechr/clone/releases/download/v0.3.23/clone_windows_arm64.zip",
+            "url": "https://github.com/gechr/clone/releases/download/v0.3.24/clone_windows_arm64.zip",
             "bin": [
                 "clone.exe"
             ],
-            "hash": "16bd5449950bc1b41d8b9ede7921f4ee0a1a07b2a15881f2104b182ea25408ba"
+            "hash": "2da49067e67bd67586cea0c70bbdd4c67935a57e7401f15bbe854069df953579"
         }
     },
     "homepage": "https://github.com/gechr/clone",
