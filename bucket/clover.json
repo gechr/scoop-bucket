@@ -1,19 +1,19 @@
 {
-    "version": "0.1.12",
+    "version": "0.2.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gechr/clover/releases/download/v0.1.12/clover_windows_amd64.zip",
+            "url": "https://github.com/gechr/clover/releases/download/v0.2.0/clover_windows_amd64.zip",
             "bin": [
                 "clover.exe"
             ],
-            "hash": "c9431be7f3ffc968eb845091ef7aa26b9de41aa2bf96d3aeffabbc0adbc53f7f"
+            "hash": "9bff269268c556ffe843da2a07282990d3a856bb53ecf9ea6cf4dccb4204fe36"
         },
         "arm64": {
-            "url": "https://github.com/gechr/clover/releases/download/v0.1.12/clover_windows_arm64.zip",
+            "url": "https://github.com/gechr/clover/releases/download/v0.2.0/clover_windows_arm64.zip",
             "bin": [
                 "clover.exe"
             ],
-            "hash": "3b557b6ded830a261703dce6c73035533616257a7f1f567f273f9097eacd9930"
+            "hash": "b11cb15906567cc6ebc26aa11488077e8c71cc1789d4a55f385e506a0991eb77"
         }
     },
     "homepage": "https://github.com/gechr/clover",
