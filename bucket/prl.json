@@ -1,19 +1,19 @@
 {
-    "version": "0.5.15",
+    "version": "0.5.16",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gechr/prl/releases/download/v0.5.15/prl_windows_amd64.zip",
+            "url": "https://github.com/gechr/prl/releases/download/v0.5.16/prl_windows_amd64.zip",
             "bin": [
                 "prl.exe"
             ],
-            "hash": "2c065cc4a2ea78ffd7fa8096e0ba3576f7c4531942ccb4294b7dedcd3a24471e"
+            "hash": "1a25d40f9b025c2ce9c13aa89432bc6744572fd3bc6833398d146bf1eae1ca23"
         },
         "arm64": {
-            "url": "https://github.com/gechr/prl/releases/download/v0.5.15/prl_windows_arm64.zip",
+            "url": "https://github.com/gechr/prl/releases/download/v0.5.16/prl_windows_arm64.zip",
             "bin": [
                 "prl.exe"
             ],
-            "hash": "c10fdd7063904823a99a5877597fc4031ec26dd386ce22a3d95091bab1942ac2"
+            "hash": "43cde51494ec5172d3732208f5bd491773e4ab77660466e1674ccdc1e85b3907"
         }
     },
     "homepage": "https://github.com/gechr/prl",
