@@ -1,19 +1,19 @@
 {
-    "version": "0.5.13",
+    "version": "0.5.14",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gechr/rep/releases/download/v0.5.13/rep_windows_amd64.zip",
+            "url": "https://github.com/gechr/rep/releases/download/v0.5.14/rep_windows_amd64.zip",
             "bin": [
                 "rep.exe"
             ],
-            "hash": "26c7210d662863563f989b548218136ed4e14372b0c2af354a0b99883ed66f00"
+            "hash": "b1a3ca1c5f2a4b9e9f6f1151dd0eb4486b4a11a7ca4f80cab4c2c52deef80137"
         },
         "arm64": {
-            "url": "https://github.com/gechr/rep/releases/download/v0.5.13/rep_windows_arm64.zip",
+            "url": "https://github.com/gechr/rep/releases/download/v0.5.14/rep_windows_arm64.zip",
             "bin": [
                 "rep.exe"
             ],
-            "hash": "ebd094899f12b94f8a6ef0641072d1d8c332c67a620ba4dac8d34ac1d3d9560a"
+            "hash": "1d48f726c4b1d4af2dcf0506488b69a19dc3b2965cc7edc42f8b08693266f4f3"
         }
     },
     "homepage": "https://github.com/gechr/rep",
