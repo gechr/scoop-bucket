@@ -1,19 +1,19 @@
 {
-    "version": "0.1.5",
+    "version": "0.1.6",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gechr/ren/releases/download/v0.1.5/ren_windows_amd64.zip",
+            "url": "https://github.com/gechr/ren/releases/download/v0.1.6/ren_windows_amd64.zip",
             "bin": [
                 "ren.exe"
             ],
-            "hash": "439e4bdc4f38f6eba325245f618300fbff9babe3726f5e80acddce6a21c94144"
+            "hash": "24bde5b00998139852b90e36a7dc4941adb44ce5d6db6bd015fe7e10ad88c243"
         },
         "arm64": {
-            "url": "https://github.com/gechr/ren/releases/download/v0.1.5/ren_windows_arm64.zip",
+            "url": "https://github.com/gechr/ren/releases/download/v0.1.6/ren_windows_arm64.zip",
             "bin": [
                 "ren.exe"
             ],
-            "hash": "d5facc5dece08b42b13cab57b6da839f064c4dfe073aec0ba17f6d74b3738ee4"
+            "hash": "8bfac7ea27154506a23a1b20e66a5c7ec406caf219ae25163c9cd8a2c74b06c2"
         }
     },
     "homepage": "https://github.com/gechr/ren",
