@@ -6,14 +6,14 @@
             "bin": [
                 "ren.exe"
             ],
-            "hash": "70591ea1c5b6b64b626068273b9421e3895fabecd7107c81c04197c51540bf28"
+            "hash": "2e2e6d083f80e95f40117022b0cd417714e5b8bcc0fee1985848480ef2960e42"
         },
         "arm64": {
             "url": "https://github.com/gechr/ren/releases/download/v0.1.7/ren_windows_arm64.zip",
             "bin": [
                 "ren.exe"
             ],
-            "hash": "9dc914da8fcd58760ea34fbc781cb5b4313558bbc43d4d68b8e6bbbf41ba7cf3"
+            "hash": "898214710ddd038793dd3c6ddabfbc04054b624435c007d3beb253c41949486d"
         }
     },
     "homepage": "https://github.com/gechr/ren",
