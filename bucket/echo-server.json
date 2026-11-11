@@ -1,19 +1,19 @@
 {
-    "version": "0.1.4",
+    "version": "0.1.5",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/gechr/echo-server/releases/download/v0.1.4/echo-server_windows_amd64.zip",
+            "url": "https://github.com/gechr/echo-server/releases/download/v0.1.5/echo-server_windows_amd64.zip",
             "bin": [
                 "echo-server.exe"
             ],
-            "hash": "0abe81cd17c70471b8d233d253d608c3f1db763c117fb3f34ac4b0bed1fcf0ca"
+            "hash": "b33c38afc0e7513ba233e7bf7f5c314d7d7b752c04030e7d859e1c3d21bb7507"
         },
         "arm64": {
-            "url": "https://github.com/gechr/echo-server/releases/download/v0.1.4/echo-server_windows_arm64.zip",
+            "url": "https://github.com/gechr/echo-server/releases/download/v0.1.5/echo-server_windows_arm64.zip",
             "bin": [
                 "echo-server.exe"
             ],
-            "hash": "35916ab9362f234a99eaa71f01b9730b3cc6457c0caf90ae2bc16f5eb1b89efd"
+            "hash": "a3ec96e86fa16d5efb03746e4a8c5b93db84f9a51bee73503ca4a389a039eac1"
         }
     },
     "homepage": "https://github.com/gechr/echo-server",
